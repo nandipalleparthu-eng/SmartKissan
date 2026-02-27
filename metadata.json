@@ -1,0 +1,5 @@
+{
+  "name": "SmartKisan",
+  "description": "AI-powered agricultural advisor for crop recommendation, profit analysis, and risk assessment.",
+  "requestFramePermissions": ["geolocation"]
+}
